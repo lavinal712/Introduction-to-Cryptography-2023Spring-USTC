@@ -1,1 +1,3 @@
-# Introduction_to_Cryptography_2023Spring_USTC
+# Introductio to Cryptography (2023Spring USTC)
+
+This course gives an introduction of cryptography on basic theories, concepts and methods, a variety of protocols, algorithms, theoretical proofs, and applications in computer security and network security. This course focuses on: traditional cryptographic techniques, Shannon’s security theory, block ciphers, stream ciphers, public key cryptography, message authentication and Hash functions, digital signatures and authentication protocols, key management and distribution, authentication and other cryptographic protocols. Some practical applications in data security, digital media and network security are also discussed.
